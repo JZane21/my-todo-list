@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{html,jsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      height:{
+        'todo-list': '350px',
+      },
+    },
   },
   plugins: [],
 }
