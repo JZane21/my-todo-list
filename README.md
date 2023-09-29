@@ -1,6 +1,6 @@
-# primer-parcial-certi-react
+# My Todo Machine
 
-Repositorio para subir el proyecto del primer parcial de la certificación en react
+Proyecto de una Todo Machine hecha con ReactJS + Vite con JavaScript
 
 Link del Drive: https://drive.google.com/drive/folders/1OYpAHP9W7LRhbWA_G-201W0NU7EOHk9J?usp=sharing
 
@@ -8,7 +8,7 @@ Link del Repositorio: https://github.com/JZane21/primer-parcial-certi-react
 
 ## Objetivo del proyecto
 
-El objetivo del presente proyecto, es demostrar los conocimientos adquiridos en la materia de Certificación en React. Para ello, se elaboró el proyecto como una aplicación web, la cual tiene como propósito registrar las tareas o pendientes que el usuario desee agregar, para luego editar, marcar o desmarcar como completada, o incluso eliminar dichas tareas.
+Se elaboró el proyecto como una aplicación web, la cual tiene como propósito registrar las tareas o pendientes que el usuario desee agregar, para luego editar, marcar o desmarcar como completada, o incluso eliminar dichas tareas.
 
 ## ¿Como funciona?
 
